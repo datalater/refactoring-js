@@ -8,6 +8,7 @@
     "test:watch": "jest --watch --verbose",
     "test:changed:watch": "jest --onlyChanged --watch --verbose ",
     "test:cw": "npm run test:changed:watch",
+    "tw": "npm run test:watch",
     "prepare": "husky install"
   },
   "repository": {
