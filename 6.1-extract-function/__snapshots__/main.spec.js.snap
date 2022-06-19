@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`6.1 extract function snapshot 1`] = `
+"
+*****************
+**** 고객 채무 ****
+*****************
+고객명: Min
+채무액: 600
+마감일: 1970. 1. 31.
+"
+`;

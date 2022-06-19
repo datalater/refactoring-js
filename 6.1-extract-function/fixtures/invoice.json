@@ -1,0 +1,5 @@
+{
+  "customer": "Min",
+  "dueDate": "2022-06-19",
+  "orders": [{ "amount": 100 }, { "amount": 200 }, { "amount": 300 }]
+}
